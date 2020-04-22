@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_movie">Film</string>
+    <string name="nav_show">Acara Tv</string>
+    <string name="movie_list">Movies</string>
+    <string name="movie_favorite_list">Film Favorit</string>
+    <string name="show_list">Tv Shows</string>
+    <string name="show_favorite_list">Acara Tv Favorit</string>
+    <string name="movie_sample_name">Judul Film</string>
+    <string name="movie_content_desc">Show Photo</string>
+    <string name="show_sample_name">Judul Acara Tv</string>
+    <string name="show_content_desc">TV Show Photo</string>
+    <string name="fragment_movie_nav">Film</string>
+    <string name="fragment_show_nav">Acara Tv</string>
+    <string name="overview_text">Deskripsi</string>
+    <string name="favorite">Favorit</string>
+    <string name="menu_language">Pengaturan</string>
+    <string name="toast_remove_favorite">Dihapus dari Favorit</string>
+    <string name="toast_add_favorite">Ditambah ke Favorit</string>
+    <string name="btn_remove_favorite">Hapus Dari Favorit</string>
+    <string name="btn_add_favorite">Tambah Favorit</string>
+    <string name="appwidget_text">EXAMPLE</string>
+</resources>

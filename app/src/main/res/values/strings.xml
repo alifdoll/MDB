@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_movie">Movie</string>
+    <string name="nav_show">Tv Show</string>
+    <string name="movie_list">Movies</string>
+    <string name="movie_favorite_list">Favorite Movies</string>
+    <string name="show_list">Tv Shows</string>
+    <string name="show_favorite_list">Favorite Tv Shows</string>
+    <string name="movie_sample_name">Movie Title</string>
+    <string name="movie_content_desc">Show Photo</string>
+    <string name="show_sample_name">Tv Show Title</string>
+    <string name="show_content_desc">TV Show Photo</string>
+    <string name="fragment_movie_nav">Movie</string>
+    <string name="fragment_show_nav">Tv Show</string>
+    <string name="overview_text">Overview</string>
+    <string name="favorite">Favorite</string>
+    <string name="menu_language">Setting</string>
+    <string name="toast_remove_favorite">Removed From Favorite</string>
+    <string name="toast_add_favorite">Added To Favorite</string>
+    <string name="btn_remove_favorite">Remove From Favorite</string>
+    <string name="btn_add_favorite">Add To Favorite</string>
+    <string name="notify_to_return_to_app">Notify to Return to App</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="release_today">Release Today Reminder</string>
+    <string name="release_today_reminder">Notify When New Movie Released Today</string>
+    <string name="daily_reminder_text">Check Some More Movies</string>
+    <string name="daily_reminder_sub_text">Daily Notification</string>
+    <string name="search_menu">Search Menu</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="release_today_message">has been released today!</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">empty</string>
+</resources>
